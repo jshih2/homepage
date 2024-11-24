@@ -1,0 +1,8 @@
+url: https://jennifershih.com
+
+# Site settings
+title: Jennifer Shih
+
+# Build settings
+markdown: kramdown
+permalink: pretty
